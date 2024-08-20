@@ -1,0 +1,17 @@
+{
+  "servidor": "127.0.0.1",
+  "porta": "3306",
+  "usuario": "cm6000087",
+  "pasta_entrada": "C:\\credimax\\API\\in",
+  "pasta_saida": "C:\\credimax\\API\\out",
+  "nuvemshop_ativada": false,
+  "nuvemshop_store_id" : "3511084",
+  "nuvemshop_auth_token" : "484df3b8f2fc45ec19699e51b352af32eafe170c",
+  "nuvemshop_user_agent" : "CrediMAX (programacao@emeasoft.com.br)",
+  "rdStation_ativada": false,
+  "rdStation_client_id": "24e00150-03a6-4c64-b87f-d6156ed5e369",
+  "rdStation_client_secret": "a4847e995ce54ea8b12f54ef5e717933",
+  "rdStation_refresh_token": "5VKxwjMlXsO5dzUgWvTphMEsRWg-9BXH1qcBEEMLcQA",
+  "powerbi_ativado": true,
+  "powerbi_database": "PowerBI"
+}
